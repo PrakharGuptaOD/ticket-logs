@@ -1,0 +1,51 @@
+[
+    {
+        "timestamp": "2026-03-01 13:30:52",
+        "author": "kangaroo#9118",
+        "author_id": 1468485905122594851,
+        "content": "",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-01 13:30:53",
+        "author": "kangaroo#9118",
+        "author_id": 1468485905122594851,
+        "content": "Hey <@1359148118444343517>! <@&1468578894482374746>\nA staff member will be with you shortly.",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-01 13:31:06",
+        "author": "kangaroo#9118",
+        "author_id": 1468485905122594851,
+        "content": "\ud83d\ude4b <@1359148118444343517> has claimed this ticket!",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-01 13:31:16",
+        "author": "prkharvndn",
+        "author_id": 1359148118444343517,
+        "content": "yoo",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-01 13:31:24",
+        "author": "prkharvndn",
+        "author_id": 1359148118444343517,
+        "content": "i am testing database of this ticketing system",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-01 13:31:28",
+        "author": "prkharvndn",
+        "author_id": 1359148118444343517,
+        "content": "and backup as well",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-01 13:31:39",
+        "author": "kangaroo#9118",
+        "author_id": 1468485905122594851,
+        "content": "\u26a0\ufe0f Are you sure you want to close this ticket?",
+        "attachments": []
+    }
+]
