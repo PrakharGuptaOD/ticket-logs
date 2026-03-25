@@ -1,0 +1,74 @@
+[
+    {
+        "timestamp": "2026-03-24 12:17:21",
+        "author": "viBot#9118",
+        "author_id": 1468485905122594851,
+        "content": "",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-24 12:17:22",
+        "author": "viBot#9118",
+        "author_id": 1468485905122594851,
+        "content": "",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-24 12:17:22",
+        "author": "viBot#9118",
+        "author_id": 1468485905122594851,
+        "content": "",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-24 12:17:23",
+        "author": "viBot#9118",
+        "author_id": 1468485905122594851,
+        "content": "Hey <@1473375952514846924>! <@&1471887023374598390>\nA staff member will be with you shortly.",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-24 12:17:41",
+        "author": "anirudhraobeedu",
+        "author_id": 1473375952514846924,
+        "content": "Screenshot for reference",
+        "attachments": [
+            "https://cdn.discordapp.com/attachments/1485975812451733626/1485975896178298931/image.png?ex=69c523e5&is=69c3d265&hm=67a8cd50bb5f9bf9323bada31d846a4efbb53043c001885d321184f7e257c2ab&"
+        ]
+    },
+    {
+        "timestamp": "2026-03-24 12:20:41",
+        "author": "viBot#9118",
+        "author_id": 1468485905122594851,
+        "content": "\u2705 Ticket has been escalated to <@956180961832362014> by <@1359148118444343517>.",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-24 12:21:08",
+        "author": "jinalgupta.",
+        "author_id": 956180961832362014,
+        "content": "<@1473375952514846924> \nThank you so much for pointing it out. \nWe are working on it and will update this issue soon.",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-24 12:22:32",
+        "author": "anirudhraobeedu",
+        "author_id": 1473375952514846924,
+        "content": "Thank you! <@956180961832362014> <@1359148118444343517>",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-25 16:51:58",
+        "author": "anirudhraobeedu",
+        "author_id": 1473375952514846924,
+        "content": "Hello <@956180961832362014> <@1359148118444343517> , I observe that the ViBe website issue is no longer present and hasn't resurfaced during usage. I'll go ahead an close this ticket. Thank you!!",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-25 16:52:01",
+        "author": "viBot#9118",
+        "author_id": 1468485905122594851,
+        "content": "\u26a0\ufe0f Are you sure you want to close this ticket?",
+        "attachments": []
+    }
+]
