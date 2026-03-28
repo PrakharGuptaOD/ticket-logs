@@ -1,0 +1,107 @@
+[
+    {
+        "timestamp": "2026-03-28 08:05:01",
+        "author": "viBot#9118",
+        "author_id": 1468485905122594851,
+        "content": "",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-28 08:05:01",
+        "author": "viBot#9118",
+        "author_id": 1468485905122594851,
+        "content": "",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-28 08:05:01",
+        "author": "viBot#9118",
+        "author_id": 1468485905122594851,
+        "content": "",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-28 08:05:02",
+        "author": "viBot#9118",
+        "author_id": 1468485905122594851,
+        "content": "Hey <@1472488410982780929>! <@&1471887023374598390>\nA staff member will be with you shortly.",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-28 08:05:25",
+        "author": "staticfan",
+        "author_id": 1472488410982780929,
+        "content": "I should not press claim ticket, right?",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-28 08:41:02",
+        "author": "viBot#9118",
+        "author_id": 1468485905122594851,
+        "content": "",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-28 08:41:02",
+        "author": "viBot#9118",
+        "author_id": 1468485905122594851,
+        "content": "\ud83d\ude4b <@956180961832362014> has claimed this ticket!",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-28 08:41:08",
+        "author": "jinalgupta.",
+        "author_id": 956180961832362014,
+        "content": "Yes.",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-28 08:41:17",
+        "author": "jinalgupta.",
+        "author_id": 956180961832362014,
+        "content": "We will escalate this issue.",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-28 08:41:28",
+        "author": "staticfan",
+        "author_id": 1472488410982780929,
+        "content": "\ud83d\udc4d",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-28 12:19:06",
+        "author": "jinalgupta.",
+        "author_id": 956180961832362014,
+        "content": "Yes, you can absolutely use rollup-plugin-visualizer for this. Since Vite uses Rollup internally, webpack-bundle-analyzer    \nwon\u2019t work properly in that setup.\nThe case study mentions bundle analyzers in general, so you can use any tool that fits your project setup. If you're using Vite, rollup-plugin-visualizer is the right choice.",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-28 12:28:36",
+        "author": "staticfan",
+        "author_id": 1472488410982780929,
+        "content": "Thanks \ud83d\udc4d",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-28 12:28:38",
+        "author": "staticfan",
+        "author_id": 1472488410982780929,
+        "content": "I will do that",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-28 13:01:30",
+        "author": "staticfan",
+        "author_id": 1472488410982780929,
+        "content": "Should I close the ticket now? If not there is another thing I wanted to suggest, please consider accepting markdown(.md) files for the case studies, the faq currently limits it only to js, ts, txt and zip I think",
+        "attachments": []
+    },
+    {
+        "timestamp": "2026-03-28 15:45:52",
+        "author": "viBot#9118",
+        "author_id": 1468485905122594851,
+        "content": "\u26a0\ufe0f Are you sure you want to close this ticket?",
+        "attachments": []
+    }
+]
